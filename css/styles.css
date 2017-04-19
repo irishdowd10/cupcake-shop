@@ -1,0 +1,63 @@
+h1  {
+  text-align: center;
+  font-size: 50pt;
+  font-family: fantasy;
+  color: rgba(230, 35, 58, 0.46);
+}
+
+
+h2 {
+  text-align: center;
+  font-size: 35pt;
+  width: 75%;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+
+.important {
+  text-align: center;
+  font-size: 44pt;
+  width: 75%;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+body {
+  background-color: rgba(245, 206, 201, 0.57);
+}
+
+.gallery {
+  background-color: rgba(230, 35, 58, 0.46);
+  margin: auto;
+}
+.pink {
+  color: #f37bc2;
+}
+
+p.intro {
+  width: 50%;
+  font-family: sans-serif;
+}
+p.owners {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p.important {
+  width: 75%;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: red;
+}
+
+img {
+  border-radius: 60%;
+  height: 200px;
+  width: 250px;
+
+
+}

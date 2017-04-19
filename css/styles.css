@@ -1,12 +1,14 @@
-h1  {
+.center {
   text-align: center;
-  font-size: 50pt;
+}
+
+h1  {
+  font-size: 70pt;
   font-family: fantasy;
   color: rgba(230, 35, 58, 0.46);
 }
 
 h2 {
-  text-align: center;
   font-size: 35pt;
   width: 75%;
   font-family: sans-serif;
@@ -22,8 +24,13 @@ h2 {
 .paragraphs {
   font-family: sans-serif;
   font-weight: lighter;
-  font-size: 25pt;
+  font-size: 15pt;
   color: grey;
+}
+
+.column {
+  float: left;
+  width: 600px;
 }
 
 
@@ -41,17 +48,9 @@ body {
 }
 
 .gallery {
-  background-color: rgba(230, 35, 58, 0.46);
   margin: auto;
 }
-.pink {
-  color: #f37bc2;
-}
 
-p.intro {
-  width: 50%;
-  font-family: sans-serif;
-}
 p.owners {
   width: 75%;
   font-style: italic;
@@ -69,6 +68,4 @@ img {
   border-radius: 60%;
   height: 200px;
   width: 250px;
-
-
 }

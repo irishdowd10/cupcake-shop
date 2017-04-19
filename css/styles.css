@@ -5,7 +5,6 @@ h1  {
   color: rgba(230, 35, 58, 0.46);
 }
 
-
 h2 {
   text-align: center;
   font-size: 35pt;
@@ -13,6 +12,18 @@ h2 {
   font-family: sans-serif;
   font-weight: bold;
   color: white;
+}
+
+
+.list {
+  color: grey;
+}
+
+.paragraphs {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 25pt;
+  color: grey;
 }
 
 
@@ -51,7 +62,7 @@ p.important {
   width: 75%;
   font-family: sans-serif;
   font-weight: bold;
-  color: red;
+  color: white;
 }
 
 img {
